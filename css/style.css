@@ -1,0 +1,55 @@
+*{
+     font-family: "Inter", sans-serif;
+}
+.whatsapp{
+     padding: 10px 18px;
+}
+.call{
+     background: linear-gradient(to right,#0AEFE0,#2699FB);
+     color: white;
+      padding: 10px 18px;
+}
+.banner-content h1{
+     font-size: 52px;
+     font-weight: 700;
+}
+.banner-content h1 span{
+     color: #2699FB;
+}
+.banner-content p{
+     font-size: 22px;
+}
+.banner-content ul{
+     list-style: none;
+}
+.banner-content ul li i{
+     color: #2699FB;
+}
+.banner-content ul li {
+     font-size: 22px;
+}
+.bannercontentbtn button{
+     width:50%;
+     padding: 10px 0px;
+     border-radius: 5px;
+}
+.demobtn{
+     color: white;
+     background:linear-gradient(to right, #0AEFE0,#2699FB);
+}
+.bannerform{
+     padding: 40px;
+}
+.bannerform h3{
+     font-size: 18px;
+     font-weight: 700;
+}
+.registerButton{
+     width: 100%;   
+     padding: 10px 0px;
+     border:none;
+     border-radius: 5px;
+     color: white;
+   
+     background:linear-gradient(to right,#0AEFE0,#2699FB);
+}
